@@ -3,16 +3,16 @@
 {
     'name': 'Odoo Academy',
     
-    'summary': ***Academy app to manage Training***,
+    'summary': """Academy app to manage Training""",
     
-    'description': ***
+    'description': """
         Academy Module to manage Training:
         . Courses
         . Sessions
         . Attendees
-    ***,
+    """,
     
-    'author': 'Odoo',
+    'author': 'Felipe',
     
     'website': 'https://www.odoo.com',
     
